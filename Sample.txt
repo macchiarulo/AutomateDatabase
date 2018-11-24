@@ -1,0 +1,1 @@
+Save a text file like this to the local host path. The python script will overwrite whatever is in this file with MySQL data.
