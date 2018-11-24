@@ -1,5 +1,5 @@
 # AutomateDatabase
-Automate Database to AWS S3 Bucket (Python, MySQL, PHP)
+# Automate Database to AWS S3 Bucket (Python, MySQL, PHP)
 import pymysql
 
 conn = pymysql.connect(host= '[host]',user='[username]',password='[password]',db='[database_name]')
