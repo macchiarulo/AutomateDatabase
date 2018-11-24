@@ -8,5 +8,5 @@ Step 5) Run python code. I reccomend running the python code every five minutes 
 Summary:
 The python code is appending the text file with the MySQL database data and then is automatically uploading it to S3 bucket with php.
 The end result is a text file hosted on S3 with the MySQL queried data.
-Benefits of this is there is no liability of hosting a MySQL database directly on a webpage_
+Benefits: No liability of hosting a MySQL database directly on a webpage_
 rather you are uploading a simple text file.
